@@ -60,7 +60,7 @@ Tudo sobre o português estruturado usado pelo interpretador Mapler.
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/kerlyson/">
+      <a href="https://www.instagram.com/david_gomesh/">
         <img src="https://avatars.githubusercontent.com/u/53452408?v=4" width="100px;" alt="Foto do David Gomes"/><br>
         <sub>
           <b>David Gomes</b>
