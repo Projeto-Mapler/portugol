@@ -27,6 +27,13 @@ Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 
 > O Mapler é uma ferramenta patenteada que utiliza a licença GPL-3.0, desta forma o projeto funciona de forma opensource permitindo assim que qualquer pessoa interessada possa contribuir e usar seus softwares/repositórios para diversos fins (obdecendo claro as regras definidas pela GPLv3).
 
+# Instituições
+
+> O projeto Mapler tem como origem a Universidade Federal do Maranhão e o Instituto Federal De Educação, Ciência e Tecnologia do Maranhão.
+>
+> [![UFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ufma.png?raw=true)](https://portalpadrao.ufma.br/)
+> [![IFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ifma.png?raw=true)](https://portal.ifma.edu.br/)
+
 # Contato
 
 > Atualmente é possivel entrar em contato de diversas formas. 
