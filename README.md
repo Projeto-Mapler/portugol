@@ -1,6 +1,6 @@
 # Portugol - Mapler
 
-Tudo sobre o português estruturado usado pelo interpretador Mapler.
+Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 
 # Introdução
 
