@@ -33,7 +33,9 @@ Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 
 # Licença
 
-> O Mapler é uma ferramenta patenteada que utiliza a licença GPL-3.0, desta forma o projeto funciona de forma opensource permitindo assim que qualquer pessoa interessada possa contribuir e usar seus softwares/repositórios para diversos fins (obdecendo claro as regras definidas pela GPLv3).
+> O Mapler é uma ferramenta patenteada que e sua sintaxe está com a licença GPL-3.0, desta forma a mesma funciona de forma opensource permitindo assim que qualquer pessoa interessada possa contribuir e usar para diversos fins (obdecendo claro as regras definidas pela GPLv3).
+>
+>As IDEs, Sites e Aplicativos disponibilizados pelo Mapler, atualmente, estão com o código privado, caso deseje colaborar ou participar do projeto basta estrar em contato com os responsáveis informando o interesse.
 
 # Contato
 
