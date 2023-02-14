@@ -1,6 +1,6 @@
 # Portugol - Mapler
 
-Tudo sobre o português estruturado usado pelo interpretador Mapler.
+Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 
 # Introdução
 
@@ -31,7 +31,7 @@ Tudo sobre o português estruturado usado pelo interpretador Mapler.
 
 > Atualmente é possivel entrar em contato de diversas formas. 
 > 1. Respondemos [issues](https://github.com/Projeto-Mapler/portugol/issues) publicadas em nossos repositórios. 
-> 2. Entre em contato pelo email oficial do projeto: `compiladorportugol@gmail.com`
+> 2. Disponibilizamos de um email para o projeto: `compiladorportugol@gmail.com`
 > 3. Se preferir, estes são alguns dos responsáveis pelo projeto:
 > <table>
    <tr>
