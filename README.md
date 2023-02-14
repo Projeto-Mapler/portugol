@@ -17,6 +17,14 @@ Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 [![contato](https://img.shields.io/badge/contato%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol#contato)
 [![repositorios](https://img.shields.io/badge/repositorios%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FFF)](https://github.com/Projeto-Mapler/portugol)
 
+# Instituições
+
+> O projeto Mapler tem como origem a Universidade Federal do Maranhão e o Instituto Federal De Educação, Ciência e Tecnologia do Maranhão.
+>
+> [![UFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ufma.png?raw=true)](https://portalpadrao.ufma.br/)
+> [![IFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ifma-short.png?raw=true)](https://portal.ifma.edu.br/)
+
+
 # Códigos
 
 > Atualmente temos uma página com uma lista de exemplos disponivel em [Mapler - Exemplos](https://portugol.sourceforge.io/exemplos/estrutura-codigo.html#VisaoGeral)
@@ -26,13 +34,6 @@ Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 # Licença
 
 > O Mapler é uma ferramenta patenteada que utiliza a licença GPL-3.0, desta forma o projeto funciona de forma opensource permitindo assim que qualquer pessoa interessada possa contribuir e usar seus softwares/repositórios para diversos fins (obdecendo claro as regras definidas pela GPLv3).
-
-# Instituições
-
-> O projeto Mapler tem como origem a Universidade Federal do Maranhão e o Instituto Federal De Educação, Ciência e Tecnologia do Maranhão.
->
-> [![UFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ufma.png?raw=true)](https://portalpadrao.ufma.br/)
-> [![IFMA](https://github.com/Projeto-Mapler/portugol/blob/main/img/logos/ifma-short.png?raw=true)](https://portal.ifma.edu.br/)
 
 # Contato
 
