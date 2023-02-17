@@ -7,7 +7,7 @@ Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 [![tipos](https://img.shields.io/badge/tipos%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol/tree/main/sintaxe#tipos)
 [![operacoes](https://img.shields.io/badge/operações%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol/tree/main/sintaxe#operações)
 [![condicionais](https://img.shields.io/badge/condicionais%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol/tree/main/sintaxe#condicionais)
-[![lacos](https://img.shields.io/badge/laços%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol/tree/main/sintaxe#laços_de_repetição)
+[![lacos](https://img.shields.io/badge/laços%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol/tree/main/sintaxe#laços)
 
 
 # Estruturas
@@ -52,7 +52,7 @@ Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 > # Senao
 > 
 
-# Laços de repetição
+# Laços
 > # Para
 > 
 > # Enquanto
