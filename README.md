@@ -12,7 +12,7 @@ Tudo sobre o português estruturado usado pelo interpretador do Mapler.
 
 # Acesso rapido
 [![downloads](https://img.shields.io/badge/downloads%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://portugol.sourceforge.io/download.html)
-[![sintaxe](https://img.shields.io/badge/sintaxe%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol#códigos)
+[![sintaxe](https://img.shields.io/badge/sintaxe%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol/tree/main/sintaxe)
 [![site](https://img.shields.io/badge/site%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://portugol.sourceforge.io/)
 [![contato](https://img.shields.io/badge/contato%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=c5f745)](https://github.com/Projeto-Mapler/portugol#contato)
 [![repositorios](https://img.shields.io/badge/repositorios%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=FFF)](https://github.com/orgs/Projeto-Mapler/repositories)
